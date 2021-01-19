@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine 
+    
+}
+
+td {
+    width: 100px;
+    height: 100px;
+
+}
+
+.vertical {
+        border-left: 1px solid orangered;
+        border-right: 1px solid orangered;
+        
+}
+
+
+.horizontal {
+    border-bottom: 1px solid black
+}
